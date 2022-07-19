@@ -1,0 +1,14 @@
+Variables:
+    En un lenguaje de programación, las variables son como contenedores donde podemos almacenar cosas, en este caso datos, para que puedan ser usados en nuestro codigo en el momento que se requieran. Piensa en las variables como si fueran cajones donde guardas tu ropa por ejemplo, o tus juguetes o herramientas. Almacenas en ellos cosas para que las tomes en el momento que las necesites.
+
+Strings:
+    Es un tipo de dato conformado por uno o una cadena de muchos caracteres. Pueden contener tanto numeros como letras y para indicarle al interprete que una variable almacenará este tipo de datos en JS se encierra entre comillas al momento de hacer la asignación de valores a la variable.
+
+Funciones (argumentos, return):
+    Las funciones son otro tipo de contenedor. A diferencia de las variables, estos principalmente almacenan codigo, operaciones o tareas que hacen algo. Las funciones son útiles para almacenar segmentos de código que puede ser reutilizado, ahorrando así espacio de memoria y almacenamiento y evita que se repita el mismo código de manera innecesaria cuando necesitemos realizar una misma tarea varias veces. Las funciones pueden recibir datos que serán procesados en su interior, esto lo hacemos a través de los argumentos, que son variables que se usan dentro de la función. Para pasar un argumento se escriben y separan con comas entre los parentesis que acompañan a la función. Para poder usar el resultado de las tareas o procesos realizados dentro de las funciones se utiliza la palabra reservada return. Con return podemos enviar al exterior los datos obtenidos dentro de la función para que podamos utilizarlos en el resto de nuestro código o programa.  
+
+Declaraciones if:
+    Las declaraciones como las tipo if, nos ayudan a decirle a nuestro programa que debe hacer con los datos cuando se cumplan determinadas condiciones. Son de gran ayuda para definir la lógica de nuestro programa y por tanto de su comportamiento dependiendo del tipo de datos que reciba o los valores que se obtengan durante el proceso. Es como cuando te dice tu mamá: "Si te portas bien te llevo al cine, pero sino, te castigo". Si necesitamos que nuestro programa ejecute acciones a veces si y a veces no dependiendo de los datos, debes usar las declaraciones if.
+
+Valores booleanos (true, false):
+    Son un tipo de dato o variable que solo pueden tener uno de dos valores: verdadero o falso. Generalmente se obtienen usando operadores lógicos o de comparación como: mayor que (>), menor que (<), igual que (==), etc. Se usan con frecuencia en las declaraciones tipo if para ayudar al programa a tomar decisiones lógicas.
