@@ -1,0 +1,4 @@
+for:
+    Es un tipo de declaracion (statement) que sirve cuando necesitamos ejecutar codigo una determinada cantidad de veces. Con el podemos definir de manera anticipada cuantas veces queremos ejecutar nuestro código y así nos evitamos tener que escribirlo nuevamente una y otra vez.  
+&&, ||, !:
+    Son operadores logicos que sirven para obtener valores de verdad o falsedad al comparar expresiones. && significa AND y solo devuelve true si ambas expresiones son verdaderas. || significa OR y devuelve true si una o ambas expresiones es verdadera. ! significa NOT y devuelve el valor contrario obtenido al realizar la evaluacion y comparacion de las expresiones. Si el resultado de la comparación da true el valor obtenido será false.
