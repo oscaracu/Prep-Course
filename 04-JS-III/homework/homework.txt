@@ -1,0 +1,2 @@
+Array:
+    Un arreglo, por su traducción al español, es un tipo de objeto en JS que puede contener muchos elementos a la vez. Al igual que las variables puede almacenar datos, pero con la gran diferencia de que puede ser una gran lista de elementos en vez de uno solo. El array en JS puede contener cualquier tipo de dato indiscriminadamente: strings, numeros, booleanos, otros arrays, incluso funciones. Si decimos que una variable es como un cajón, un arreglo bien podriamos decir que es como un archivero compuesto de muchos cajones.
