@@ -1,0 +1,10 @@
+Objetos: 
+    En programación, un objeto es la manera en que se representa algo que tiene caracteristicas que lo diferencian de otras cosas. Tal como en la vida real existen gran cantidad de cosas u "objetos", en los lenguajes de programación como JS estas cosas pueden tener propiedades como color, nombre, edad, dimensión, etc, y pueden realizar acciones como correr, dibujar, escribir, etc.  Un objeto en JS es muy similar a un Array, con la gran diferencia de que se declaran sus valores encerrados entre {} en vez de [], y no son listas ordenadas, esto quiere decir que no poseen un indice numerico como en el caso de los Arrays, sino mas bien de pares de Claves y Valores. A cada clave se le asigna un valor y estos pueden ser de cualquier tipo: strings, numeros, arrays, booleanos, funciones u otros objetos.
+Propiedades:
+    El termino se refiere a las variables que se alojan dentro del objeto. Pueden ser strings, arrays, numeros u otros objetos.
+Métodos:
+    Se refiere a las funciones que se declaran dentro de un objeto y cuyo funcionamiento esta ligado al objeto y sus propiedades.
+Bucle for…in:
+    Es una manera de poder recorrer y obtener las claves que se almacenan dentro de un objeto, similar al uso del bucle for en los arrays.
+Notación de puntos vs notación de corchetes:
+    En los objetos ambas notaciones se usan para referirse e invocar las propiedades o metodos que contiene un objeto. La gran ventaja del uso de corchetes es que se pueden usar variables como referencia de las claves, lo cual permite un mayor dinamismo al momento de programar. 
