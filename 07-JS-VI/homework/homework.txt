@@ -1,0 +1,2 @@
+Funciones Callback:
+    Es una de las principales caractaristicas de JS que permite el uso de funciones dentro de otras funciones pasándolas como parametros, permitiendo así infinidad de combinaciones y resultados.
